@@ -1,13 +1,13 @@
 self.__BUILD_MANIFEST = {
   "/_error": [
-    "./static/chunks/cf09bf1c362d8014.js"
+    "./static/chunks/5865de1eedb37be7.js"
   ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/deezeedigital//_next/:path+",
-        "destination": "/deezeedigital/_next/:path+"
+        "source": "/deezeedigital.github.io//_next/:path+",
+        "destination": "/deezeedigital.github.io/_next/:path+"
       }
     ],
     "fallback": []
